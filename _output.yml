@@ -8,10 +8,10 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">TEMPLATE</a></li>
+        <li><a href="./">LDC Example</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["rmd"]
     edit:
-      link: https://github.com/mps9506/twri-bookdown-template/edit/main/%s
+      link: https://github.com/mps9506/twri-bacteria-ldc-example/edit/main/%s
       text: "Suggest an edit"
