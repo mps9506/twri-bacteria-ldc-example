@@ -4,4 +4,4 @@
 ![bookdown](https://github.com/mps9506/twri-bookdown-template/workflows/render-bookdown/badge.svg)
 
 
-[`bookdown`](https://github.com/rstudio/bookdown) template for TWRI examples.
+https://mps9506.github.io/twri-bacteria-ldc-example/
