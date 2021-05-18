@@ -39,7 +39,8 @@ jobs:
 
       - name: Install packages
         run: |
-          R -e 'install.packages(c("remotes","knitr","ragg","renv","bookdown", "hrbrthemes"))'
+          R -e 'install.packages(c("remotes","knitr","ragg","renv","bookdown","hrbrthemes","dataRetrieval","tidyverse","janitor","DescTools"))'
+          R -e 'remotes::install_github("mps9506/dartx")'
           R -e 'renv::restore()'
 
       - name: Build site
