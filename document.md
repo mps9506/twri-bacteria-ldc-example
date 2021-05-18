@@ -2,10 +2,11 @@
 title: "LDC Example"
 author: "Michael Schramm"
 date: "2021-05-18"
-github-repo: mps9506/twri-bookdown-template
+github-repo: mps9506/twri-bacteria-ldc-example
 bibliography: bibliography.bib
 biblio-style: "apalike"
 link-citations: true
+url: "https://mps9506.github.io/twri-bacteria-ldc-example/"
 ---
 
 
